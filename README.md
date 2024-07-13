@@ -1,4 +1,5 @@
 # Weather Prediction Model
+<img src="https://i.pinimg.com/564x/37/26/70/372670047d6791f607af4e7f5f109ec6.jpg" width="120" alt="Weather Prediction Model">
 
 ## Overview
 This repository contains a Python project developed by Anish Kumar for predicting weather using data analysis and machine learning neural networks. The project reads data from a CSV file, processes it, trains a neural network, and visualizes the results.
@@ -40,6 +41,4 @@ Explain how the trained model is used to predict weather conditions. Include any
 ## Visualization
 Describe how the results are visualized using matplotlib. Include examples of the types of plots generated and their significance.
 
-## Conclusion
-Summarize the key findings and the effectiveness of the neural network in predicting weather conditions. Discuss any potential improvements or future work.
 
