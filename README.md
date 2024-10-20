@@ -1,7 +1,9 @@
 # Weather Prediction Model
-<img src="https://i.pinimg.com/564x/37/26/70/372670047d6791f607af4e7f5f109ec6.jpg" width="120" alt="Weather Prediction Model">
+
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Machine%20Learning/weather_banner.png" alt="Weather Prediction Model">
 
 ## Overview
+<img src="https://i.pinimg.com/564x/37/26/70/372670047d6791f607af4e7f5f109ec6.jpg" width="120" alt="Weather Prediction Model">
 This repository contains a Python project developed by Anish Kumar for predicting weather using data analysis and machine learning neural networks. The project reads data from a CSV file, processes it, trains a neural network, and visualizes the results.
 
 ## Table of Contents
